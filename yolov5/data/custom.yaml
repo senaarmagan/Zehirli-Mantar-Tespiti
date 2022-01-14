@@ -1,0 +1,7 @@
+train: /content/mantar/train/images/  
+val: /content/mantar/val/images/ 
+
+nc: 4
+names: ['ZEHİRLİ-Omphalotus olearius','ZEHİRLİ-Agaricaceae','ZEHİRLİ-Amanita  muscaria','ZEHİRLİ-Amanita phalloides'] 
+
+
